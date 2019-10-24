@@ -1,0 +1,98 @@
+
+h1{
+  display:block;
+  text-align: center;
+font-family:'ZCOOL XiaoWei', serif;
+  font-size:64px;
+  background-color:#ea5169;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+h3{
+  color: #ffffff;
+  text-align:center;
+  font-size:72px;
+  font-weight:strong;
+  text-shadow: 1.5px 1.5px #ea5169;
+  margin:0 18%;
+  font-family:'ZCOOL XiaoWei', serif;
+}
+h4{
+    color: #ea5169;
+    text-align:center;
+    font-size:45px;
+    font-weight:strong;
+    text-shadow: 1px 1px #ffff;
+    margin:0 18%;
+    font-family:'ZCOOL XiaoWei', serif;
+}
+
+h5{
+    color: #ffffff;
+    text-align:center;
+    font-size:45px;
+    font-weight:strong;
+    text-shadow: 1px 1px #ea5169;
+    margin:0 18%;
+    font-family:'ZCOOL XiaoWei', serif;
+}
+ul{
+  color: #ffffff;
+  text-align: center;
+  font-size: 32px;;
+  font-weight:strong;
+  text-shadow: 1px 1px #ea5169;
+  margin: 0 18%;
+  font-family:'ZCOOL XiaoWei', serif;
+}
+li{
+  color:#ffff;
+  margin:0 18%;
+  text-align:center;
+  font-family:'ZCOOL XiaoWei', serif;
+  font-size: 36px;
+  font-weight:strong;
+  text-shadow: 1.5px 1.5px #ea5169;
+
+}
+.watermelondiv{
+  display: grid;
+  grid-template-columns: 25% 25% 25% 25%;
+  grid-template-rows: 100%;
+  padding: 10px;
+}
+.gridcontainer{
+  display: grid;
+  grid-template: 300px/repeat(3,20%);
+  padding: 5px;
+  height: 300px;
+  width: 300px;
+}
+.gridcontainer:nth-child(1){
+  height: 300px;
+  width: 300px;
+}
+
+img{
+  border: 5px solid #ea5169;
+
+}
+p {
+    color:#ea5169;
+
+    margin:auto 18%;
+    text-align:center;
+    font-family:'ZCOOL XiaoWei', serif;
+    font-size: 25px;
+    font-weight:strong;
+    text-shadow: 1px 1px #ffff;
+    background-color: #1a732d;
+}
+
+body{
+    background-image: url("https://www.publicdomainpictures.net/pictures/290000/nahled/green-stripes-sunburst-background.jpg");
+
+
+}
