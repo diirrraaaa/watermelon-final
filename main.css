@@ -30,13 +30,12 @@ h4{
 }
 
 h5{
-    color: #ffffff;
+    color: Black;
     text-align:center;
-    font-size:45px;
-    font-weight:strong;
-    text-shadow: 1px 1px #ea5169;
-    margin:0 18%;
+    font-size:25px;
+    text-shadow: 1px 1px #ffff;
     font-family:'ZCOOL XiaoWei', serif;
+    background-color: #ea5169;
 }
 ul{
   color: #ffffff;
@@ -86,9 +85,4 @@ body{
   background-repeat: no-repeat;
   background-size: cover;
   height: 100%;
-}
-
-footer{
-  background-color: #1a732d;
-  font-size: 25px;
 }
