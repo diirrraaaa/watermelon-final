@@ -8,6 +8,7 @@ font-family:'ZCOOL XiaoWei', serif;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+  text-shadow: 1px 1px #ffff;
 }
 
 h3{
@@ -65,6 +66,8 @@ li{
 
 img{
   border: 5px solid #ea5169;
+  height:400px;
+  width: 400px;
 
 }
 p {
